@@ -1,0 +1,9 @@
+*.pyc
+*~
+*.idea
+*.project
+*.pydevproject
+__pychache__
+db.sqlite3
+/static
+.DS_Store
