@@ -55,4 +55,11 @@
 
 .sidebar-nav li a:hover{
     background: #16A085;
+
+
+}
+
+.navbar.navbar-inverse{
+    background-color: red;
+
 }
